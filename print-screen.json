@@ -2,7 +2,7 @@
   "title": "Print Screen to Screenshot",
   "rules": [
     {
-      "description": "Print Screen to Screenshot",
+      "description": "Screenshot",
       "manipulators": [
         {
           "type": "basic",
